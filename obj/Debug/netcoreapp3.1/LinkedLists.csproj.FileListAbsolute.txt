@@ -1,0 +1,13 @@
+C:\Users\yvonn\source\repos\LinkedLists\LinkedLists\obj\Debug\netcoreapp3.1\LinkedLists.csprojAssemblyReference.cache
+C:\Users\yvonn\source\repos\LinkedLists\LinkedLists\obj\Debug\netcoreapp3.1\LinkedLists.AssemblyInfoInputs.cache
+C:\Users\yvonn\source\repos\LinkedLists\LinkedLists\obj\Debug\netcoreapp3.1\LinkedLists.AssemblyInfo.cs
+C:\Users\yvonn\source\repos\LinkedLists\LinkedLists\obj\Debug\netcoreapp3.1\LinkedLists.csproj.CoreCompileInputs.cache
+C:\Users\yvonn\source\repos\LinkedLists\LinkedLists\bin\Debug\netcoreapp3.1\LinkedLists.exe
+C:\Users\yvonn\source\repos\LinkedLists\LinkedLists\bin\Debug\netcoreapp3.1\LinkedLists.deps.json
+C:\Users\yvonn\source\repos\LinkedLists\LinkedLists\bin\Debug\netcoreapp3.1\LinkedLists.runtimeconfig.json
+C:\Users\yvonn\source\repos\LinkedLists\LinkedLists\bin\Debug\netcoreapp3.1\LinkedLists.runtimeconfig.dev.json
+C:\Users\yvonn\source\repos\LinkedLists\LinkedLists\bin\Debug\netcoreapp3.1\LinkedLists.dll
+C:\Users\yvonn\source\repos\LinkedLists\LinkedLists\bin\Debug\netcoreapp3.1\LinkedLists.pdb
+C:\Users\yvonn\source\repos\LinkedLists\LinkedLists\obj\Debug\netcoreapp3.1\LinkedLists.dll
+C:\Users\yvonn\source\repos\LinkedLists\LinkedLists\obj\Debug\netcoreapp3.1\LinkedLists.pdb
+C:\Users\yvonn\source\repos\LinkedLists\LinkedLists\obj\Debug\netcoreapp3.1\LinkedLists.genruntimeconfig.cache
